@@ -31,6 +31,7 @@
      #include "lualib.h"
      #include "lauxlib.h"
   }
+  #include <string>
 #endif //__cplusplus
 
 #endif // LUACPP_LUA_HPP
